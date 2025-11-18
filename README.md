@@ -1,5 +1,5 @@
 <h1 allign="center">LOL Hack</h1>
-<h3 allign="center">One of The best LOL hacks.
+<h3 allign="center">One of The best LOL hacks.</h2>
 <h2 allign="center">ANYWAYS!!!!</h3>
 
 #### Made by isaiahxlks This is For Educatioal Purposes Only.
