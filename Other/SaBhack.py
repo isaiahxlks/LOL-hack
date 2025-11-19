@@ -1,3 +1,4 @@
+# Give's The Player Free Admin Commands in Steal a Brainrot.
 
 Copy
 import time
